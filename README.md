@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris-vega
 - 👀 I’m interested in project management and web development
-- 🌱 I’m currently learning Azure, DevOps, webdev
+- 🌱 I’m currently learning scrum, DevOps, webdev (Spring)
 - 💞️ / 📫: [CV/Résumé](https://chris-vega.github.io/cv/)
 
 <!---
