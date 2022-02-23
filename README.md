@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris-vega
-- 👀 I’m interested in project management and web development
-- 🌱 I’m currently learning scrum, DevOps, webdev (Spring)
+- 👀 I’m a systems analyst interested in project management and application development
+- 🌱 learning scrum, DevOps
 - 💞️ / 📫: [CV/Résumé](https://chris-vega.github.io/cv/)
 
 <!---
