@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris-vega
 - 👀 I’m a systems analyst interested in project management and application development
-- 🌱 learning scrum, DevOps
+- 🌱 learning scrum, DevOps, photography
 - 💞️ / 📫: [CV/Résumé](https://chris-vega.github.io/cv/)
 
 <!---
