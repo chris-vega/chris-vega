@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chris-vega
-- 👀 I’m a technical consultant interested in cloud development, administration, and agile project management
+- 👀 I’m a technical consultant working in cloud development, administration, and agile project management
 - 🌱 learning AWS, DevOps, photography
 - 💞️ / 📫: [CV/Résumé](https://chris-vega.github.io/cv/)
 
