@@ -4,7 +4,7 @@
 
 🌱 learning AWS, DevOps, photography
 
-💞️ / 📫: [CV/Résumé](https://chris-vega.github.io/cv/)
+📫: [CV/Résumé](https://chris-vega.github.io/cv/)
 
 <!---
 chris-vega/chris-vega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
