@@ -1,8 +1,8 @@
-👋 Hi, I’m [Chris](https://www.linkedin.com/in/chrisevega/)!
+👋🏽 Hi, I’m [Chris](https://www.linkedin.com/in/chrisevega/)!
 
-👀 I’m a technical consultant working in cloud development, administration, and agile project management
+👀 I’m a systems analyst working in application development and infrastructure support roles
 
-🌱 learning AWS, DevOps, photography
+🌱 learning cloud administration/development, photography
 
 📫: [CV/Résumé](https://chris-vega.github.io/cv/)
 
