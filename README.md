@@ -1,6 +1,6 @@
 👋🏽 Hi, I’m [Chris](https://www.linkedin.com/in/chrisevega/)!
 
-👀 I’m a systems analyst working in application development and infrastructure support roles
+👀 I’m a systems analyst working in application, infrastructure, and project support roles
 
 🌱 learning cloud administration/development, photography
 
