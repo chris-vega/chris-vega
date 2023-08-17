@@ -1,8 +1,8 @@
 👋🏽 Hi, I’m [Chris](https://www.linkedin.com/in/chrisevega/)!
 
-👀 I’m a systems analyst working in application, infrastructure, and project support roles
+👀 I've been a systems analyst for the past six years, most recently working in application, infrastructure, and project support roles
 
-🌱 learning cloud administration/development, photography
+🌱 (independently) learning cloud administration, web development, and photography
 
 📫: [CV/Résumé](https://chris-vega.github.io/cv/)
 
